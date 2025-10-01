@@ -1,59 +1,57 @@
-🛒 Simple E-Commerce Website
+# 🛒 Simple E-Commerce Website  
 
-A responsive frontend-only e-commerce website built with HTML, CSS, and JavaScript.
-Users can browse products, add items to the cart, view total price, and manage their shopping cart.
-Cart data is stored in localStorage, so it persists even after refreshing.
+A responsive *frontend-only e-commerce website* built with *HTML, CSS, and JavaScript*.  
+Users can browse products, add items to the cart, view total price, and manage their shopping cart.  
+Cart data is stored in *localStorage*, so it persists even after refreshing.  
 
-🚀 Features
+---
 
-📦 Product Listing – Displays items with image, price, and name.
+## 🚀 Features  
+- 📦 *Product Listing* – Displays items with image, price, and name.  
+- 🛍 *Add to Cart* – Add items to the shopping cart.  
+- 🔄 *Persistent Cart* – Cart is saved in localStorage.  
+- ➕➖ *Quantity Management* – Add or remove products dynamically.  
+- 💰 *Cart Summary* – Shows total items and price.  
+- 🧹 *Clear Cart* – Reset shopping cart with one click.  
+- 🎨 *Responsive Design* – Works on mobile, tablet, and desktop.  
 
-🛍️ Add to Cart – Add items to the shopping cart.
+---
 
-🔄 Persistent Cart – Cart is saved in localStorage.
+## 🖼 Demo Screenshot  
+![Demo Screenshot](screenshot.png)  
 
-➕➖ Quantity Management – Add or remove products dynamically.
+---
 
-💰 Cart Summary – Shows total items and price.
+## 🛠 Tech Stack  
+- *HTML5* – Structure  
+- *CSS3* – Styling & layout  
+- *JavaScript (ES6)* – Functionality & localStorage  
 
-🧹 Clear Cart – Reset shopping cart with one click.
+---
 
-🎨 Responsive Design – Works on mobile, tablet, and desktop.
-
-🖼️ Demo Screenshot
-
-(Add a screenshot of your project here, e.g. screenshot.png)
-
-🛠️ Tech Stack
-
-HTML5 – Structure
-
-CSS3 – Styling & layout
-
-JavaScript (ES6) – Functionality & localStorage
-
-📂 Project Structure
+## 📂 Project Structure  
 ecommerce/
-│── index.html       # Main file
-│── style.css        # Styles
-│── script.js        # Logic (cart, products, localStorage)
+│── index.html # Main file
+│── style.css # Styles
+│── script.js # Logic (cart, products, localStorage)
 
-⚡ How to Run
+yaml
+Copy code
 
-Clone the repository
+---
 
-git clone https://github.com/your-username/ecommerce-website.git
-
-
+## ⚡ How to Run  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/ecommerce-website.git
 Open the folder
 
+bash
+Copy code
 cd ecommerce-website
-
-
 Open index.html in your browser.
 
 ✨ Future Improvements
-
 🔍 Product search & filter
 
 📑 Product detail page
@@ -62,13 +60,12 @@ Open index.html in your browser.
 
 🌙 Dark/Light mode toggle
 
-📊 Integration with a real API (e.g., Fake Store API
-)
+📊 Integration with a real API (e.g., Fake Store API)
 
 📌 Author
-
 👤 Your Name
 
-GitHub: @your-username
+GitHub: @poruri-santhosh 
 
-LinkedIn: Your Profile
+LinkedIn: https://www.linkedin.com/in/poruri-santhosh-156ab729b/
+
